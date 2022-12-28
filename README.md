@@ -66,9 +66,12 @@ Uygulamanın temel özellikleri yukarıda listelenmiştir. Detaylı  YouTube vid
 
 * Menünün altıncı seçeneği ise `history` komutundan alınan geçmiş komutları listeler ve listenen komutlardan seçilen komutun eğer tekrar çalıştırılması mümkünse tekrar çalıştırılır.
 
-![Ekran Görüntüsü - 2022-12-28 15-56-06](https://user-images.githubusercontent.com/73036927/209815708-70413c8b-be9b-4121-8665-faea68f42e2a.png)
+![Ekran Görüntüsü - 2022-12-28 16-22-06](https://user-images.githubusercontent.com/73036927/209818838-f91dbec2-2113-466c-bd60-36e8b3a80199.png)
 
-![Ekran Görüntüsü - 2022-12-28 15-56-06](https://user-images.githubusercontent.com/73036927/209815733-18058229-80ab-4b33-8535-e7a4f4750cff.png)
+
+![Ekran Görüntüsü - 2022-12-28 16-22-11](https://user-images.githubusercontent.com/73036927/209818877-5a0d37e3-861a-4f8e-82f8-f7e6f57bf875.png)
+
+
 
 * Son olarak çıkış seçeneği seçilerek uygulamadan çıkılır.
 
