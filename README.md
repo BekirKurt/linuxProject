@@ -42,9 +42,37 @@ Uygulamanın temel özellikleri yukarıda listelenmiştir. Detaylı  YouTube vid
 
 ![Ekran Görüntüsü - 2022-12-28 15-21-37](https://user-images.githubusercontent.com/73036927/209811550-c8adff8d-2e43-401b-832d-d76d504cf603.png)
 
+![Ekran Görüntüsü - 2022-12-28 15-21-44](https://user-images.githubusercontent.com/73036927/209812612-4341f513-884b-4a67-9d09-ee2a437f9909.png)
+
+
+![Ekran Görüntüsü - 2022-12-28 15-21-51](https://user-images.githubusercontent.com/73036927/209812411-71beb3ce-5201-4ec4-98e0-2506bfafed96.png)
+
+* Numerik olarak seçmek için ise aşağıdaki formattaki gibi bir sayı verilerek izin işlemi atanır. İlk sayı userı temsil, ikinci sayı group ve üçüncü sayı ise other sahibini temsil eder. Kullanıcı bu format dışında bir sayı verirse eğer hatayla karşılaşacaktır.
+
+![Ekran Görüntüsü - 2022-12-28 15-41-41](https://user-images.githubusercontent.com/73036927/209814000-465a7e70-0243-4f0f-a955-4caba1cb7b4d.png)
+
+
+![Ekran Görüntüsü - 2022-12-28 15-40-31](https://user-images.githubusercontent.com/73036927/209813908-63548c84-243a-4122-a92b-593b2b3f25c5.png)
 
 
 
+* Menu dördüncü seçeneği ise dosyanın içeriğini görüntülenmesi ve eğer istenilirse değiştirimesini sağlar.
+
+![Ekran Görüntüsü - 2022-12-28 15-49-08](https://user-images.githubusercontent.com/73036927/209814853-40177268-cb0f-4816-a235-1beffcb53aad.png)
+
+* Menu beşinci seçeneği ise diskin doluluk oranını gösterir. `df -h` komutundan ilgili veri alınarak zenity progress dialog üzerinden gösterilmiştir.
+
+![Ekran Görüntüsü - 2022-12-28 15-52-08](https://user-images.githubusercontent.com/73036927/209815236-c55503da-a788-40f8-adc6-56ac770c1bc5.png)
+
+* Menünün altıncı seçeneği ise `history` komutundan alınan geçmiş komutları listeler ve listenen komutlardan seçilen komutun eğer tekrar çalıştırılması mümkünse tekrar çalıştırılır.
+
+![Ekran Görüntüsü - 2022-12-28 15-56-06](https://user-images.githubusercontent.com/73036927/209815708-70413c8b-be9b-4121-8665-faea68f42e2a.png)
+
+![Ekran Görüntüsü - 2022-12-28 15-56-06](https://user-images.githubusercontent.com/73036927/209815733-18058229-80ab-4b33-8535-e7a4f4750cff.png)
+
+* Son olarak çıkış seçeneği seçilerek uygulamadan çıkılır.
+
+ 
 
 
 
