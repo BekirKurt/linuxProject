@@ -66,11 +66,13 @@ Uygulamanın temel özellikleri yukarıda listelenmiştir. Detaylı  YouTube vid
 
 * Menünün altıncı seçeneği ise `head` ve  `tail` komutları kullanılarak önceden hazırlamış olduğum şehirleri plakalarıyla beraber bir metin dosyasına kaydettim. Kullanıcıya hangi aralıklar arası görüntüleneceği soruluyor ve o aralıklardaki şehirler görüntüleniyor.
 
-![Ekran Görüntüsü - 2022-12-28 16-22-06](https://user-images.githubusercontent.com/73036927/209818838-f91dbec2-2113-466c-bd60-36e8b3a80199.png)
+![Ekran Görüntüsü - 2023-01-03 17-26-00](https://user-images.githubusercontent.com/73036927/210379416-cc3894e0-cdf6-4dd6-97d8-232d6e53bd5c.png)
 
+![Ekran Görüntüsü - 2023-01-03 17-26-08](https://user-images.githubusercontent.com/73036927/210379485-c9d72cfb-4cdc-48d3-b943-e56c02c5c457.png)
 
-![Ekran Görüntüsü - 2022-12-28 16-22-11](https://user-images.githubusercontent.com/73036927/209818877-5a0d37e3-861a-4f8e-82f8-f7e6f57bf875.png)
+![Ekran Görüntüsü - 2023-01-03 17-26-15](https://user-images.githubusercontent.com/73036927/210379583-3578aa61-443f-4d81-bb99-e2f495bf8217.png)
 
+![Ekran Görüntüsü - 2023-01-03 17-26-23](https://user-images.githubusercontent.com/73036927/210379645-525c94d3-64da-408c-9252-3147ad6f0819.png)
 
 
 * Son olarak çıkış seçeneği seçilerek uygulamadan çıkılır.
