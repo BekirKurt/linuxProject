@@ -64,7 +64,7 @@ Uygulamanın temel özellikleri yukarıda listelenmiştir. Detaylı  YouTube vid
 
 ![Ekran Görüntüsü - 2022-12-28 15-52-08](https://user-images.githubusercontent.com/73036927/209815236-c55503da-a788-40f8-adc6-56ac770c1bc5.png)
 
-* Menünün altıncı seçeneği ise `history` komutundan alınan geçmiş komutları listeler ve listenen komutlardan seçilen komutun eğer tekrar çalıştırılması mümkünse tekrar çalıştırılır.
+* Menünün altıncı seçeneği ise `head` ve  `tail` komutları kullanılarak önceden hazırlamış olduğum şehirleri plakalarıyla beraber bir metin dosyasına kaydettim. Kullanıcıya hangi aralıklar arası görüntüleneceği soruluyor ve o aralıklardaki şehirler görüntüleniyor.
 
 ![Ekran Görüntüsü - 2022-12-28 16-22-06](https://user-images.githubusercontent.com/73036927/209818838-f91dbec2-2113-466c-bd60-36e8b3a80199.png)
 
