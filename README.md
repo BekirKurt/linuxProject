@@ -7,9 +7,9 @@ Linux bash script dili ile proje geliştirilmiştir. Projenin görsel arayüzü 
   <li>Dosya içeriklerinin görüntülenmesi ve değiştirilmesi</li>
   <li>Dosya izinlerinin görüntülenmesi</li>
   <li>Diskin yüzdesel olarak doluluk durumu</li>
-  <li>History komutunun listelenmesi ve seçilen komutun tekrar çalıştırılması</li>
+  <li>Seçilen dosyanın belirli aralıklardaki içeriğini gösterme</li>
 </ul>
-Uygulamanın temel özellikleri yukarıda listelenmiştir. Detaylı  YouTube videosunu için tıklayınız <a href="https://www.youtube.com/?hl=tr&gl=TR">tıklayınız</a>
+Uygulamanın temel özellikleri yukarıda listelenmiştir. Detaylı  YouTube videosunu için tıklayınız <a href="https://www.youtube.com/watch?v=FIs49E4jMv8&t=2s&ab_channel=BekirKurt">tıklayınız</a>
 
 
 
