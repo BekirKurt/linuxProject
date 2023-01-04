@@ -1,0 +1,7 @@
+toplam 44
+24 -rw-rw-r-- 1 pacific pacific 23306 Oca  2 15:11 history.txt
+ 0 -rw-rw-r-- 1 pacific pacific     0 Oca  3 17:10 permissions.txt
+ 4 -rw-rw-r-- 1 pacific pacific   926 Oca  2 19:43 plaka.txt
+12 -rwxrwxr-x 1 pacific pacific  8705 Oca  2 19:46 project.sh
+ 4 -rw-rw-r-- 1 pacific pacific   154 Oca  2 20:40 sonuc.txt
+ 0 -rwx---r-- 1 pacific pacific     0 Oca  3 17:08 test.txt
