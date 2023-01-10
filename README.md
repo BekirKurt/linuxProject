@@ -9,7 +9,7 @@ Linux bash script dili ile proje geliştirilmiştir. Projenin görsel arayüzü 
   <li>Diskin yüzdesel olarak doluluk durumu</li>
   <li>Seçilen dosyanın belirli aralıklardaki içeriğini gösterme</li>
 </ul>
-Uygulamanın temel özellikleri yukarıda listelenmiştir. Detaylı  YouTube videosunu için tıklayınız <a href="https://www.youtube.com/watch?v=FIs49E4jMv8&t=2s&ab_channel=BekirKurt">tıklayınız</a>
+Uygulamanın temel özellikleri yukarıda listelenmiştir. 
 
 
 
